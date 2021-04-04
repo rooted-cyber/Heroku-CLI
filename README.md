@@ -6,5 +6,5 @@
  $ git clone https://github.com/rooted-cyber/Heroku-CLI
  $ cd Heroku-CLI
  $ bash setup.sh
- $ pythin heroku.py
+ $ python heroku.py
  </pre>
